@@ -1,0 +1,6 @@
+[2016-07-26 12:35:48] request.INFO: Matched route "homepage". {"route_parameters":{"_controller":"AppBundle\\Controller\\DefaultController::indexAction","_route":"homepage"},"request_uri":"http://localhost/git/symfony-test/web/app_dev.php/"} []
+[2016-07-26 12:35:48] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
+[2016-07-26 12:35:49] request.INFO: Matched route "_wdt". {"route_parameters":{"_controller":"web_profiler.controller.profiler:toolbarAction","token":"c8b57c","_route":"_wdt"},"request_uri":"http://localhost/git/symfony-test/web/app_dev.php/_wdt/c8b57c"} []
+[2016-07-26 12:36:10] request.INFO: Matched route "homepage". {"route_parameters":{"_controller":"AppBundle\\Controller\\DefaultController::indexAction","_route":"homepage"},"request_uri":"http://localhost/git/symfony-test/web/app_dev.php/"} []
+[2016-07-26 12:36:10] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
+[2016-07-26 12:36:10] request.INFO: Matched route "_wdt". {"route_parameters":{"_controller":"web_profiler.controller.profiler:toolbarAction","token":"c999a2","_route":"_wdt"},"request_uri":"http://localhost/git/symfony-test/web/app_dev.php/_wdt/c999a2"} []
